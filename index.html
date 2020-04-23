@@ -138,6 +138,12 @@ Released   : 20081230
 			        <li><a href="https://tpwd.texas.gov/landwater/land/tcap/">Texas Conservation Action Plan</a></li>
 		        </ul>
 		      </li>
+				<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+				<ul>
+   					{% for item in site.data.samplelist.docs %}
+     					 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   					{% endfor %}
+				</ul>
 			</ul>
 		</div>
 		</div>
