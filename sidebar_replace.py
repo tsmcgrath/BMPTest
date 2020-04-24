@@ -23,9 +23,10 @@ for dirpath, dirnames, files in os.walk(topdir):
             print('=====', file_path, '=====', sidediv)
 
             # Replacing State Info header 2 - haven't got this working yet.
-            # target = soup.find('h2', text="State Information")
-            # mycomment =  Comment('Replacement comment for State Information Header 2')
-            # replacement = target.replace_with(mycomment)
+            target = soup.find("h2", text="State Information")
+            mycomment =  Comment('Replacement comment for State Information Header 2')
+            target.contents = ''
+            #target.replace_with(mycomment)
 
             # Replacing Impairment Issues
             target = soup.find("li", text="Impairment Issues")

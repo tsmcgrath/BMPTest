@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+
+Name       : Professional
+Description: A two-column, fixed-width design with dark color scheme background.
+Version    : 1.0
+Released   : 20081230
+
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Index</title>
+<link rel="stylesheet" type="text/css" href="../style.css" media="screen" />
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+	<div id="logo">
+	  <h1><a href="#">Best Management Practices</a></h1>
+		<p>For the Conservation of Texas Aquatic Ecosystems</p>
+	</div>
+	<!-- end #logo -->
+	<div id="menu">
+		<ul>
+			<li class="active"><a href="../Index.html">Home</a></li>
+      <li><a href="../BMPIndex.html">BMPs Index</a></li>
+			<li><a href="../WatershedsIndex.html">Watersheds</a></li>
+			<li><a href="../GlossaryIndex.html">Glossary</a></li>
+			<li><a href="../ContactUsIndex.html">Contact Us</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+</div>
+<!-- end #header -->
+<div id="page">
+	<div id="header-pic"></div>
+	<div id="content">
+		<div class="post">
+			<h1 class="title">Middle Colorado EDU Projects and Research</h1>
+          <div class="entry">
+              <p> <em>If you would like to include information about a project in this EDU, please email a photo, brief description, and contact information to texasbmp@gmail.com.</em></p>
+            </div>
+<h1 class="title">South Llano Watershed Alliance</h1>
+<div class="entry"> <img src="../images/SouthLlanoAlliance.jpg" width="530" height="69" alt="South Llano Watershed Alliance" />The South Llano Watershed Alliance began as a group of landowners and stakeholders interested in watershed issues and conservation in the South Llano and adjoining watersheds. The coalition was formalized in 2009 with the mission &quot;to preserve and enhance the South Llano River <em>and adjoining watersheds </em>by encouraging land and water stewardship through collaboration, education, and community participation.&quot; Recently, the alliance has been working on developing a watershed conservation plan for the South Llano River. For more information about the South Llano Watershed Alliance, <a href="http://southllano.org/"><em>click here to visit their website.</em></a>
+  <p>&nbsp;</p>
+</div>
+<h1 class="title">Guadalupe Bass Restoration Initiative</h1>
+<div class="entry"> <img src="../images/GuadalupeBass3_PTB.JPG" width="530" height="203" alt="Guadalupe Bass" />The TPWD Guadalupe Bass Restoration Initiative's restoration efforts will focus on Guadalupe bass populations in the north and south forks of the Llano River. This project provides the opportunity to use interest in the State Fish of Texas to raise awareness of habitat quality and support restoration and conservation efforts in the region. Specific restoration activities will include assessments of fish community structure and habitat use, removal of non-native smallmouth bass and hybrids, stocking of genetically-pure Guadalupe bass, genetic monitoring of Guadalupe bass populations, instream and riparian habitat assessments, and instream, riparian and upland restoration and conservation.
+  <p><br />
+    The intent of the Guadalupe Bass Restoration Initiative is to protect Guadalupe bass populations and their habitat by developing networks of willing landowners interested in implementing coordinated landscape conservation actions at watershed-scales. Conservation actions implemented by landowner networks will promote functional riparian and stream systems, and emphasize the conservation of native fish communities and supporting habitats. The networks will attempt to reduce or eliminate activities on the landscape that degrade water quality, reduce water quantity, degrade riparian systems, favor non-native species, or fragment stream systems, while encouraging a wide array of sustainable land-use activities that are compatible with aquatic resource conservation.</p>
+  <div>
+    <p><em>Click here for more information about the Guadalupe Bass Restoration Initiative.</em></p>
+  </div>
+</div>
+<h1 class="title">Introgressive status, population genetic structure, phylogeographic history and individual-level resource specialization of the Guadalupe bass <em>Micropterus treculii</em></h1>
+<div class="entry"> <img src="../images/GuadalupBass2.JPG" width="530" height="322" alt="Guadalupe Bass" />The Guadalupe bass has declined across much of its native range in Texas due to hybridization with introduced smallmouth bass. Biologists at Texas State University are identifying populations of Guadalupe bass that are hybridizing with smallmouth bass. Once hybridizing populations have been identified, restoration of these populations will be undertaken using both habitat restoration and stocking of pure Guadalupe bass by Texas Parks &amp; Wildlife Department.
+  <div>
+    <p><em><a href="http://www.bio.txstate.edu/~tbonner/bonner.htm">Contact Texas State University - San Marcos aquatic biology program for more information</a></em><a href="http://www.bio.txstate.edu/~tbonner/bonner.htm">.</a></p>
+  </div>
+</div>
+<h1 class="title">Charactarization of the Llano watershed fish and invertebrate assemblage</h1>
+<div class="entry"> <img src="../images/NLlanoWarmouth_MGB.JPG" width="530" height="253" alt="Warmouth sunfish" />Texas State University and Texas Tech University at Junction began a one year, seasonal study in the Llano drainage in 2010 to examine fish and invertebrate distribution, occurance, and abundance. This study will also provide information about species habitat associations and provide recent baseline data for the watershed.
+  <div>
+    <p><em><a href="http://www.bio.txstate.edu/~tbonner/bonner.htm">Contact Texas State University - San Marcos aquatic biology program for fish information</a></em> or<em><a href="http://www.depts.ttu.edu/hillcountry/junction/">Texas Tech University at Junction for invertebrate information</a>.</em></p>
+  </div>
+</div>
+<h1 class="title">James River Fish Assemblage</h1>
+<div class="entry">
+  <p>Fish collections are being conducted in the James River by fish biologists from the University of Texas to determine species occurance, abundance, and distribution. Information will provide important baseline data for the James River.</p>
+  <div>
+    <p><a href="http://www.biosci.utexas.edu/ib/faculty/hendrick.htm"><em>Contact the University of Texas - Section of Integrative Biology for more information.</em></a></p>
+  </div>
+</div>
+<h1 class="title">UAV Mapping of Llano watershed rivers</h1>
+<div class="entry"> <img src="../images/UAV_MGB.JPG" width="530" height="157" alt="UAV in flight" />TPWD and the Rivers Systems Institute at Texas State University are collaborating to map rivers in the Llano watershed using unmanned aerial vehicle (UAV) technology. Images will provide information about available instream habitats, health of riparian areas, and identify restoration needs.
+  <div>
+    <p><em><a href="http://www.bio.txstate.edu/~ThomHardy/">Contact the River Systems Institute for more information.</a></em></p>
+  </div>
+</div>
+<h1 class="title">Developing and testing best land management practices for central Texas</h1>
+<div class="entry"> Texas Tech University at Junction
+  <div>
+    <p><em><a href="http://www.depts.ttu.edu/hillcountry/junction/">Contact Texas Tech University at Junction for more information</a>.</em></p>
+  </div>
+</div>
+<h1 class="title">TPWD Ecological Systems Mapping</h1>
+<div class="entry">
+  <p><img src="../images/Colorado_Edwards_EcolSys.jpg" width="530" height="376" alt="Ecological Systems Middle Colorado" /> </p>
+  <p><a href="http://www.tpwd.state.tx.us/landwater/land/maps/gis/"><em>Contact Texas Parks and Wildlife's GIS lab for more information.</em></a></p>
+</div>
+<h1 class="title">Microhabitat associations and movement of Guadalupe bass <em>Micropterus treculii</em> in the Pedernales and South Llano rivers</h1>
+<div class="entry">
+  <p><img src="../images/GuadalupeBassTelemetry_MGB.JPG" width="530" height="186" alt="Radio telemetry study" /></p>
+  <p>The Guadalupe bass <em>Micropterus treculii </em>is endemic to Texas and is threatened by introgression with introduced smallmouth bass <em>M. dolomieu</em> as well as habitat degradation. This study described and quantified the movements and habitat associations of Guadalupe bass to assess the factors that may influence current populations. Radio-tagged adult Guadalupe bass were tracked in the Pedernales River (n = 12) and South Llano River (n = 12) from January through August 2008. Available microhabitats were measured and modeled in terms of depth, velocity, substrate, and cover for about 1.5 km in the Pedernales River and 1.2 km in the South Llano River. Rates of movement were greatest during the reproductive season, ranging from less than 1 to 9 m/d. Instream cover (such as undercut banks and woody debris) was preferred during daylight hours throughout the study period, although the distances from cover increased from January to August. Habitat shifts from cover to open water occurred at night and from woody structures to boulders and ledges during a large flood pulse. The habitats most suitable for adult Guadalupe bass had a depth of 1.0 m and a current velocity of 0.05 m/s, and habitat selection was strongest for eddy mesohabitats with smaller substrates. By July, the Guadalupe bass in the South Llano River were associated with runs with greater current velocities, whereas those in the Pedernales River were associated with pools with greater depths, largely owing to the low flows and reduced habitat availability in the Pedernales River. Environmental factors, including the availability and suitability of instream cover, are probably the strongest influences on the distribution and abundance of Guadalupe bass. </p>
+  <p>Perkin, J.S., Z.R. Shattuck, P.T. Bean, T.H. Bonner, E.Saraeva, and T.B. Hardy. 2010. Movement and microhabitat associations of Guadalupe bass in two Texas rivers. North American Journal of Fisheries Management 30:33-46.</p>
+  <div>
+    <p><em><a href="http://www.bio.txstate.edu/~tbonner/bonner.htm">Contact Texas State University - San Marcos aquatic biology program for more information</a></em><a href="http://www.bio.txstate.edu/~tbonner/bonner.htm">.</a></p>
+  </div>
+  <p></p>
+</div>
+<h1 class="title">Microhabitat associations and movement of Guadalupe bass <em>Micropterus treculii</em> in the Pedernales and South Llano rivers</h1>
+			<div class="entry"> <img src="../images/PedernalesReserach_MGB.JPG" width="530" height="227" alt="Pedernales River sampling" />
+			  <p> Texas State University conducted a one year, seasonal study in the Pedernales River to examine fish and invertebrate distribution, occurance, and abundance. This study provides information about species habitat associations and provides recent baseline data for the river. </p>
+			  <div>
+		      <p><em><a href="http://www.bio.txstate.edu/~tbonner/bonner.htm">Contact Texas State University - San Marcos aquatic biology program for more information</a></em><a href="http://www.bio.txstate.edu/~tbonner/bonner.htm">.</a></p></div>
+			  <p>&nbsp;</p>
+		  </div>
+		</div>
+	</div>
+	<!-- end #content -->
+	<div id="sidebar">
+		<div id="sidebar-bgtop"></div>
+		<div id="sidebar-content">
+			<div id="sidebar-bgbtm">
+			<ul>
+				<li id="search">
+					<h2>Search</h2>
+					<form method="get" action="">
+						<fieldset>
+						<input type="text" id="s" name="s" value="" />
+						<input type="submit" id="x" value="Search" />
+						</fieldset>
+					</form>
+				</li>
+				<li>
+				  <h2>Conservation BMP Partners</h2>
+					<ul>
+						<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+						<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+						<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+					</ul>
+				</li>
+			  <li>
+				<h2>Watershed Highlights</h2>
+					<ul>
+						<li><a href="GuadalupeBass.html">Guadalupe Bass Restoration Initiative</a></li>
+						<li> <a href="http://www.fishhabitat.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=49&amp;Itemid=76">Llano River is named as a National Fish Habitat Action Plan's &quot;10 Waters to Watch&quot;</a></li>
+						<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">TPWD Watershed Landowner Incentive Program</a></li>
+						<li><a href="MiddleColoradoResearch.html">Research Projects</a></li>
+					</ul>
+			  </li>
+		      <li>
+			      <h2>Middle Colorado Information</h2>
+			      <ul>
+			        <li><a href="../StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+			        <li><a href="../StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+			        <li><a href="../StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+			        <li><a href="../StateInfo/Native Species.html">Native Species</a></li>
+			        <li><a href="../StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+			        <li><a href="../StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+			        <li><a href="http://www.tpwd.state.tx.us/publications/pwdpubs/pwd_pl_w7000_1187a/">Texas Conservation Action Plan</a></li>
+		        </ul>
+		      </li>
+			</ul>
+		</div>
+		</div>
+	</div>
+	<!-- end #sidebar -->
+	<div style="clear:both; margin:0;"></div>
+</div>
+<!-- end #page -->
+
+</div>
+
+<div id="footer">
+	<p>&copy; 2010. All Rights Reserved. Design by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>.</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
