@@ -1,0 +1,12 @@
+<li>
+<h2>State Information</h2>
+<ul>
+<li><a href="StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+<li><a href="StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+<li><a href="StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+<li><a href="StateInfo/Native Species.html">Native Species</a></li>
+<li><a href="StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+<li><a href="StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+<li><a href="https://tpwd.texas.gov/landwater/land/tcap/">Texas Conservation Action Plan</a></li>
+</ul>
+</li>

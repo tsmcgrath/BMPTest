@@ -1,0 +1,598 @@
+===== ./index.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li>Guadalupe Bass Restoration Initiative</li>
+<li><a href="https://tpwd.texas.gov/landwater/land/private/lip/">TPWD Landowner Incentive Program</a></li>
+<li><a href="#">Terlingua Creek Watershed Restoration</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">Texas Watersheds: Conservation News from Headwaters to Coast</a></li>
+<li><a href="MiddleColorado/MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>State Information</h2>
+<ul>
+<li><a href="StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+<li><a href="StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+<li><a href="StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+<li><a href="StateInfo/Native Species.html">Native Species</a></li>
+<li><a href="StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+<li><a href="StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+<li><a href="https://tpwd.texas.gov/landwater/land/tcap/">Texas Conservation Action Plan</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== - 2 ./index.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li>Guadalupe Bass Restoration Initiative</li>
+<li><a href="https://tpwd.texas.gov/landwater/land/private/lip/">TPWD Landowner Incentive Program</a></li>
+<li><a href="#">Terlingua Creek Watershed Restoration</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">Texas Watersheds: Conservation News from Headwaters to Coast</a></li>
+<li><a href="MiddleColorado/MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>State Information</h2>
+<ul>
+<!--Replacement comment for Impairment Issues-->
+<!--Replacement comment for Conservation Priorities-->
+<!--Replacement comment for Critical Habitats-->
+<!--Replacement comment for Native Species-->
+<!--Replacement comment for Imperiled Species-->
+<!--Replacement comment for Exotic Species-->
+<!--Replacement comment for Texas Conservation Action Plan-->
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== ./index_orig.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li>Guadalupe Bass Restoration Initiative</li>
+<li><a href="https://tpwd.texas.gov/landwater/land/private/lip/">TPWD Landowner Incentive Program</a></li>
+<li><a href="#">Terlingua Creek Watershed Restoration</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">Texas Watersheds: Conservation News from Headwaters to Coast</a></li>
+<li><a href="MiddleColorado/MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>State Information</h2>
+<ul>
+<li><a href="StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+<li><a href="StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+<li><a href="StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+<li><a href="StateInfo/Native Species.html">Native Species</a></li>
+<li><a href="StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+<li><a href="StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+<li><a href="https://tpwd.texas.gov/landwater/land/tcap/">Texas Conservation Action Plan</a></li>
+</ul>
+</li>
+<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+<ul>
+   					{% for item in site.data.samplelist.docs %}
+     					 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   					{% endfor %}
+				</ul>
+</ul>
+</div>
+</div>
+</div>
+===== - 2 ./index_orig.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li>Guadalupe Bass Restoration Initiative</li>
+<li><a href="https://tpwd.texas.gov/landwater/land/private/lip/">TPWD Landowner Incentive Program</a></li>
+<li><a href="#">Terlingua Creek Watershed Restoration</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">Texas Watersheds: Conservation News from Headwaters to Coast</a></li>
+<li><a href="MiddleColorado/MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>State Information</h2>
+<ul>
+<!--Replacement comment for Impairment Issues-->
+<!--Replacement comment for Conservation Priorities-->
+<!--Replacement comment for Critical Habitats-->
+<!--Replacement comment for Native Species-->
+<!--Replacement comment for Imperiled Species-->
+<!--Replacement comment for Exotic Species-->
+<!--Replacement comment for Texas Conservation Action Plan-->
+</ul>
+</li>
+<h2>{{ site.data.samplelist.docs_list_title }}</h2>
+<ul>
+   					{% for item in site.data.samplelist.docs %}
+     					 <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   					{% endfor %}
+				</ul>
+</ul>
+</div>
+</div>
+</div>
+===== ./MiddleColorado/GuadalupeBass.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+</ul>
+</li>
+<li>
+<h2>News Articles</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/newsmedia/releases/?req=20110511a">Biologist Complete First Guadalupe Bass Stocking on South Llano River from TPWD</a></li>
+<li><a href="http://www.chron.com/disp/story.mpl/ap/tx/7560529.html">Texas Works to Protect State Fish with Restocking from Houston Chronicle (May 2011)</a></li>
+<li><a href="http://www.worldfishingnetwork.com/news/biologists-stock-guadalupe-bass-in-texas-river-99596.aspx">Biologist Stock Guadalupe Bass in Texas River from World Fishing Network (May 2011)</a></li>
+<li><a href="http://southllano.org/blog/wp-content/files/The_Texas_Guadalupe_Bass_Restoration_Initiative_-_LIP_Funding_Series.pdf">The Texas Guadalupe Bass Restoration Initiative LIP Funding Series from TPWD and South Llano Watershed Alliance</a> (2011)</li>
+<li><a href="http://www.tpwd.state.tx.us/newsmedia/releases/?req=20110425a">Critical Texas Bass River Named "Water to Watch" for 2011 from TPWD (April 2011)</a></li>
+<li><a href="http://southeastaquatics.net/documents/the-llano-river-project">The Llano River Project from Southeast Aquatic Resources Partnership (April 2011)</a></li>
+<li><a href="http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/texas/explore/texas-by-nature---guadalupe-bass.xml">Texas by Nature: Texas' State Fish Under Threat from The Nature Conservancy (Feb 2011)</a></li>
+<li><a href="http://www.statesman.com/sports/outdoors/the-guadalupe-bass-deserves-better-treatment-698026.html">The Guadalupe Bass deserves better treatment from Statesman.com</a> (May 2010)</li>
+<li><a href="http://southeastaquatics.net/uploads/document/Final Business Plan NFWF Native Black Bass Keystone Initiative.doc.pdf">A Business Plan for the Conservation of Native Black Bass Species in the Southeastern US: A ten year Plan from National Fish and Wildlife Foundation (Feb 2010)</a></li>
+<li><a href="http://www.bassmaster.com/node/101894">The 'Other' Bass and their destinations from Bassmaster (May 2009)</a></li>
+<li><a href="http://www.twff.net/Newsletters/newletters/twff07_12.pdf">The Guadalupe Bass Restoration Project: A joint venture between fly-fishing enthusiasts and local, state, and federal governments from Texas Women Fly Fishers (p.4; Dec 2007)</a></li>
+<li><a href="http://www.txstate.edu/news/news_releases/news_archive/2007/11/GuadalupeBass112907.html">Electronic Bass Key to Fish Species' Conservation from Texas State University</a>(Nov 2007)</li>
+<li><a href="http://www.sanmarcosrecord.com/sports/x1169214924/TPWD-attempting-to-bring-back-Guadalupe-bass">TPWD Attempting to Bring Back Guadalupe Bass from San Marcos Daily Record (June 2007)</a></li>
+<li><a href="http://passporttotexas.org/guadalupe-bass-restoration-1/">Guadalupe Bass Restoration from Passport to Texas (May 2007)</a></li>
+<li><a href="http://www.tpwmagazine.com/archive/2006/oct/ed_5/">Kissing Cousins from TPWD Magazine (Oct 2006)</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<li><a href="../StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+<li><a href="../StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+<li><a href="../StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+<li><a href="MiddleColoradoSpecies.html">Native Species</a></li>
+<li><a href="../StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+<li><a href="../StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+<li><a href="http://www.tpwd.state.tx.us/publications/pwdpubs/pwd_pl_w7000_1187a/">Texas Conservation Action Plan</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== - 2 ./MiddleColorado/GuadalupeBass.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+</ul>
+</li>
+<li>
+<h2>News Articles</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/newsmedia/releases/?req=20110511a">Biologist Complete First Guadalupe Bass Stocking on South Llano River from TPWD</a></li>
+<li><a href="http://www.chron.com/disp/story.mpl/ap/tx/7560529.html">Texas Works to Protect State Fish with Restocking from Houston Chronicle (May 2011)</a></li>
+<li><a href="http://www.worldfishingnetwork.com/news/biologists-stock-guadalupe-bass-in-texas-river-99596.aspx">Biologist Stock Guadalupe Bass in Texas River from World Fishing Network (May 2011)</a></li>
+<li><a href="http://southllano.org/blog/wp-content/files/The_Texas_Guadalupe_Bass_Restoration_Initiative_-_LIP_Funding_Series.pdf">The Texas Guadalupe Bass Restoration Initiative LIP Funding Series from TPWD and South Llano Watershed Alliance</a> (2011)</li>
+<li><a href="http://www.tpwd.state.tx.us/newsmedia/releases/?req=20110425a">Critical Texas Bass River Named "Water to Watch" for 2011 from TPWD (April 2011)</a></li>
+<li><a href="http://southeastaquatics.net/documents/the-llano-river-project">The Llano River Project from Southeast Aquatic Resources Partnership (April 2011)</a></li>
+<li><a href="http://www.nature.org/ourinitiatives/regions/northamerica/unitedstates/texas/explore/texas-by-nature---guadalupe-bass.xml">Texas by Nature: Texas' State Fish Under Threat from The Nature Conservancy (Feb 2011)</a></li>
+<li><a href="http://www.statesman.com/sports/outdoors/the-guadalupe-bass-deserves-better-treatment-698026.html">The Guadalupe Bass deserves better treatment from Statesman.com</a> (May 2010)</li>
+<li><a href="http://southeastaquatics.net/uploads/document/Final Business Plan NFWF Native Black Bass Keystone Initiative.doc.pdf">A Business Plan for the Conservation of Native Black Bass Species in the Southeastern US: A ten year Plan from National Fish and Wildlife Foundation (Feb 2010)</a></li>
+<li><a href="http://www.bassmaster.com/node/101894">The 'Other' Bass and their destinations from Bassmaster (May 2009)</a></li>
+<li><a href="http://www.twff.net/Newsletters/newletters/twff07_12.pdf">The Guadalupe Bass Restoration Project: A joint venture between fly-fishing enthusiasts and local, state, and federal governments from Texas Women Fly Fishers (p.4; Dec 2007)</a></li>
+<li><a href="http://www.txstate.edu/news/news_releases/news_archive/2007/11/GuadalupeBass112907.html">Electronic Bass Key to Fish Species' Conservation from Texas State University</a>(Nov 2007)</li>
+<li><a href="http://www.sanmarcosrecord.com/sports/x1169214924/TPWD-attempting-to-bring-back-Guadalupe-bass">TPWD Attempting to Bring Back Guadalupe Bass from San Marcos Daily Record (June 2007)</a></li>
+<li><a href="http://passporttotexas.org/guadalupe-bass-restoration-1/">Guadalupe Bass Restoration from Passport to Texas (May 2007)</a></li>
+<li><a href="http://www.tpwmagazine.com/archive/2006/oct/ed_5/">Kissing Cousins from TPWD Magazine (Oct 2006)</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<!--Replacement comment for Impairment Issues-->
+<!--Replacement comment for Conservation Priorities-->
+<!--Replacement comment for Critical Habitats-->
+<!--Replacement comment for Native Species-->
+<!--Replacement comment for Imperiled Species-->
+<!--Replacement comment for Exotic Species-->
+<!--Replacement comment for Texas Conservation Action Plan-->
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== ./MiddleColorado/MiddleColoradoSpecies.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li><a href="GuadalupeBass.html">Guadalupe Bass Restoration Initiative</a></li>
+<li> <a href="http://www.fishhabitat.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=49&amp;Itemid=76">Llano River is named as a National Fish Habitat Action Plan's "10 Waters to Watch"</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">TPWD Watershed Landowner Incentive Program</a></li>
+<li><a href="MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<li><a href="../StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+<li><a href="../StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+<li><a href="../StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+<li><a href="../StateInfo/Native Species.html">Native Species</a></li>
+<li><a href="../StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+<li><a href="../StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+<li><a href="http://www.tpwd.state.tx.us/publications/pwdpubs/pwd_pl_w7000_1187a/">Texas Conservation Action Plan</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== - 2 ./MiddleColorado/MiddleColoradoSpecies.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li><a href="GuadalupeBass.html">Guadalupe Bass Restoration Initiative</a></li>
+<li> <a href="http://www.fishhabitat.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=49&amp;Itemid=76">Llano River is named as a National Fish Habitat Action Plan's "10 Waters to Watch"</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">TPWD Watershed Landowner Incentive Program</a></li>
+<li><a href="MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<!--Replacement comment for Impairment Issues-->
+<!--Replacement comment for Conservation Priorities-->
+<!--Replacement comment for Critical Habitats-->
+<!--Replacement comment for Native Species-->
+<!--Replacement comment for Imperiled Species-->
+<!--Replacement comment for Exotic Species-->
+<!--Replacement comment for Texas Conservation Action Plan-->
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== ./MiddleColorado/MiddleColoradoindex.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li>Guadalupe Bass Restoration Initiative</li>
+<li><a href="http://southllano.org/blog/wp-content/files/The_Texas_Guadalupe_Bass_Restoration_Initiative_-_LIP_Funding_Series.pdf">TPWD Watershed Landowner Incentive Program</a></li>
+<li><a href="MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<li><a href="../StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+<li><a href="../StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+<li><a href="../StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+<li><a href="../StateInfo/Native Species.html">Native Species</a></li>
+<li><a href="../StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+<li><a href="../StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+<li><a href="http://www.tpwd.state.tx.us/publications/pwdpubs/pwd_pl_w7000_1187a/">Texas Conservation Action Plan</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== - 2 ./MiddleColorado/MiddleColoradoindex.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li>Guadalupe Bass Restoration Initiative</li>
+<li><a href="http://southllano.org/blog/wp-content/files/The_Texas_Guadalupe_Bass_Restoration_Initiative_-_LIP_Funding_Series.pdf">TPWD Watershed Landowner Incentive Program</a></li>
+<li><a href="MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<!--Replacement comment for Impairment Issues-->
+<!--Replacement comment for Conservation Priorities-->
+<!--Replacement comment for Critical Habitats-->
+<!--Replacement comment for Native Species-->
+<!--Replacement comment for Imperiled Species-->
+<!--Replacement comment for Exotic Species-->
+<!--Replacement comment for Texas Conservation Action Plan-->
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== ./MiddleColorado/MiddleColoradoResearch.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li><a href="GuadalupeBass.html">Guadalupe Bass Restoration Initiative</a></li>
+<li> <a href="http://www.fishhabitat.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=49&amp;Itemid=76">Llano River is named as a National Fish Habitat Action Plan's "10 Waters to Watch"</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">TPWD Watershed Landowner Incentive Program</a></li>
+<li><a href="MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<li><a href="../StateInfo/Impairment Issues.html">Impairment Issues</a></li>
+<li><a href="../StateInfo/ConservationPriorities.html">Conservation Priorities</a></li>
+<li><a href="../StateInfo/CriticalHabitat.html">Critical Habitats</a></li>
+<li><a href="../StateInfo/Native Species.html">Native Species</a></li>
+<li><a href="../StateInfo/ImperiledSpecies.html">Imperiled Species</a></li>
+<li><a href="../StateInfo/ExoticSpecies.html">Exotic Species</a></li>
+<li><a href="http://www.tpwd.state.tx.us/publications/pwdpubs/pwd_pl_w7000_1187a/">Texas Conservation Action Plan</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+===== - 2 ./MiddleColorado/MiddleColoradoResearch.html ===== <div id="sidebar">
+<div id="sidebar-bgtop"></div>
+<div id="sidebar-content">
+<div id="sidebar-bgbtm">
+<ul>
+<li id="search">
+<h2>Search</h2>
+<form action="" method="get">
+<fieldset>
+<input id="s" name="s" type="text" value=""/>
+<input id="x" type="submit" value="Search"/>
+</fieldset>
+</form>
+</li>
+<li>
+<h2>Conservation BMP Partners</h2>
+<ul>
+<li><a href="http://www.tpwd.state.tx.us/">Texas Parks and Wildlife Department</a></li>
+<li><a href="http://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
+<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+</ul>
+</li>
+<li>
+<h2>Watershed Highlights</h2>
+<ul>
+<li><a href="GuadalupeBass.html">Guadalupe Bass Restoration Initiative</a></li>
+<li> <a href="http://www.fishhabitat.org/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=49&amp;Itemid=76">Llano River is named as a National Fish Habitat Action Plan's "10 Waters to Watch"</a></li>
+<li><a href="http://www.tpwd.state.tx.us/landwater/water/habitats/wetland/publications/tx_wetland_newsletter.phtml">TPWD Watershed Landowner Incentive Program</a></li>
+<li><a href="MiddleColoradoResearch.html">Research Projects</a></li>
+</ul>
+</li>
+<li>
+<h2>Middle Colorado Information</h2>
+<ul>
+<!--Replacement comment for Impairment Issues-->
+<!--Replacement comment for Conservation Priorities-->
+<!--Replacement comment for Critical Habitats-->
+<!--Replacement comment for Native Species-->
+<!--Replacement comment for Imperiled Species-->
+<!--Replacement comment for Exotic Species-->
+<!--Replacement comment for Texas Conservation Action Plan-->
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
