@@ -1,0 +1,17 @@
+import re
+def get_replace_url(u):
+  return "http://example.org"
+html = open("tagesschau.html","r").read()
+r = re.compile('href="([^"]+)"')
+nhtml = ""
+p = 0
+while p < len(html):
+  m = r.search(html, p)
+  if not m:
+    break
+  sr = get_replace_url(m.group(1))
+  nhtml = nhtml + html[p:m.start(1)] + sr + '"'
+  p = m.end(0)
+if p < len(html):
+  nhtml = nhtml + html[p:]
+print(nhtml)
