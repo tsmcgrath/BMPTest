@@ -15,11 +15,14 @@ count = 0
 # 1) open the csv with replacement URL's
 infile_path = '/Users/Tim/Code/Github/BMPTest/URLReplaceTest.csv'
 with open(infile_path) as rf:
-    for line in rf:
+    reader = csv.DictReader(rf)
+    for row in reader:
+        line = str(row)
         elements = line.split(',')
-        html_file = elements[0].strip('"')
-        orig_url = elements[1].strip('"')
-        replace_url = elements[2].strip()
+        html_file = elements[0] # .strip('"')
+        # orig_url = elements[1] # .strip('"')
+        orig_url = elements[1]
+        replace_url = elements[2] # .strip()
         # replace_url = replace_url.strip('"') # make sure all double quotes are stripped.
         replace_url = replace_url.replace('"', "")
         f = open(html_file, mode='r', encoding = 'utf-8')
