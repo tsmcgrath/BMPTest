@@ -1,41 +1,29 @@
 # Replaces local pdf URL's with an external reference.
-# Here's the logic:
-# 1) open the replacement csv
-# 2) read each line.
-# 2a) while the html file is the same, perform all the replacements on identified on subsequent lines.
-# 3) when html file is different, swap variable to new file, open, and replace. Loop to 2a.
-# 4) close all files.
 import os
+import sys
 import csv
 from bs4 import BeautifulSoup
-from bs4 import Comment
-
 count = 0
-
-# 1) open the csv with replacement URL's
-infile_path = '/Users/Tim/Code/Github/BMPTest/URLReplaceTest.csv'
-with open(infile_path) as rf:
-    reader = csv.DictReader(rf)
+script_path = os.path.abspath(os.path.dirname(sys.argv[0]))
+infile_path = os.path.join(script_path, './URLReplaceTest.csv')
+with open(infile_path) as csvfile:
+    reader = csv.reader(csvfile)
     for row in reader:
-        line = str(row)
-        elements = line.split(',')
-        html_file = elements[0] # .strip('"')
-        # orig_url = elements[1] # .strip('"')
-        orig_url = elements[1]
-        replace_url = elements[2] # .strip()
-        # replace_url = replace_url.strip('"') # make sure all double quotes are stripped.
-        replace_url = replace_url.replace('"', "")
-        f = open(html_file, mode='r', encoding = 'utf-8')
-        soup = BeautifulSoup(f, 'html.parser')
-        f.close()
-        # Replacing URL
-        target = soup.find('a', href = orig_url)
-        if target is not None:
-            count += 1
-            print('replacing', count)
-            replacement = target.replace_with(replace_url)
-        prettyHTML = soup.prettify()
-        of = open(html_file, mode='w', encoding='utf-8')
-        of.write(prettyHTML)
-        of.close()
-rf.close()
+        html_file = row[0]
+        orig_url = row[1]
+        replace_url = row[2]
+        html_file_path = os.path.abspath(os.path.join(script_path, *html_file.split('/')))
+        prettyHTML = None
+        with open(html_file_path, mode='r', encoding = 'utf-8') as f:
+            soup = BeautifulSoup(f, 'html.parser')
+            # Replacing URL
+            target = soup.find('a', href = orig_url)
+            if target:
+                count += 1
+                print('replacing', count)
+                target['href'] = replace_url
+                # replacement = target.replace_with(replace_url)
+            prettyHTML = soup.prettify()
+        if prettyHTML:
+            with open(html_file_path, mode='w', encoding='utf-8') as of:
+                of.write(prettyHTML)
