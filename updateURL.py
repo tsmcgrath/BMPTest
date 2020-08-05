@@ -5,7 +5,7 @@ import csv
 from bs4 import BeautifulSoup
 count = 0
 script_path = os.path.abspath(os.path.dirname(sys.argv[0]))
-infile_path = os.path.join(script_path, './Update BMP URL Target_test2.csv')
+infile_path = os.path.join(script_path, './Update BMP URL Target_v2.csv')
 with open(infile_path) as csvfile:
     reader = csv.reader(csvfile)
     for row in reader:
