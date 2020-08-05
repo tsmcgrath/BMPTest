@@ -5,7 +5,7 @@ import csv
 from bs4 import BeautifulSoup
 count = 0
 # The top argument for the directory walk
-topdir = '/Users/Tim/Code/Github/BMPTest'
+topdir = '/Users/Tim/Code/Github/BMPStaging'
 # The extension to search for
 exten = '.html'
 copyrightstring = '© TPWD 2020. All Rights Reserved.'
@@ -24,11 +24,11 @@ for dirpath, dirnames, files in os.walk(topdir):
                 if footer:
                     para = footer.find("p")
                     para.clear()
-                    print(para)
+                    #print(para)
                     # set the footer font color
                     para['style'] = "color:white"
                     para.insert(0, copyrightstring)
-                    print(para)
+                    #print(para)
                     prettyHTML = soup.prettify()
                     of = open(file_path, mode='w', encoding='utf-8')
                     of.write(prettyHTML)
