@@ -23,7 +23,7 @@ Released   : 20081230
    <div id="header">
     <div id="logo">
      <h1>
-      <a href="#">
+      <a href="/BMPStaging/index.html">
        Best Management Practices
       </a>
      </h1>
@@ -40,22 +40,13 @@ Released   : 20081230
        </a>
       </li>
       <li>
-       <a href="BMPIndex.html">
+       <a href="/BMPStaging/BMPIndex.html">
         BMPs Index
        </a>
       </li>
+
       <li>
-       <a href="WatershedsIndex.html">
-        Watersheds
-       </a>
-      </li>
-      <li>
-       <a href="GlossaryIndex.html">
-        Glossary
-       </a>
-      </li>
-      <li>
-       <a href="ContactUsIndex.html">
+       <a href="/BMPStaging/ContactUsIndex.html">
         Contact Us
        </a>
       </li>
@@ -81,7 +72,7 @@ Released   : 20081230
        </p>
        <p>
         Search BMPs by
-        <a href="BMPIndex.html">
+        <a href="/BMPStaging/BMPIndex.html">
          conservation objective or by land use
         </a>
         for the state.	Or	search BMPs by
@@ -233,7 +224,7 @@ Released   : 20081230
            </a>
           </li>
           <li>
-           <a href="http://www.nature.org/wherewework/northamerica/states/texas/">
+           <a href="https://www.nature.org/en-us/about-us/where-we-work/united-states/texas/">
             The Nature Conservancy
            </a>
           </li>

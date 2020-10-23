@@ -30,10 +30,10 @@ Released   : 20081230
 	<div id="menu">
 		<ul>
 			<li class="active"><a href="index.html">Home</a></li>
-      <li><a href="BMPIndex.html">BMPs Index</a></li>
+      <li><a href="/BMPStaging/BMPIndex.html">BMPs Index</a></li>
 			<li><a href="WatershedsIndex.html">Watersheds</a></li>
 			<li><a href="GlossaryIndex.html">Glossary</a></li>
-			<li><a href="ContactUsIndex.html">Contact Us</a></li>
+			<li><a href="/BMPStaging/ContactUsIndex.html">Contact Us</a></li>
 		</ul>
 	</div>
 	<!-- end #menu -->
@@ -47,7 +47,7 @@ Released   : 20081230
 			<div class="entry">
 			  <p>Conservation best management practices (BMPs) are methods or actions that promote the conservation, protection, and/or restoration of our natural resources.</p>
 			  <p>Conservation   BMPs are an important tool for implementing plans   and actions necessary to conserve, protect, and/or restore natural resources. This project was developed in Texas to identify BMPs to   address landscape factors, land use practices, and impairments affecting the   health of freshwater watershed habitats and ecosystems. To date, over 1600 BMPs   from more than 150 local, state, national, and international organizations and   agencies have been collected to address these threats. Scientific literature,   species lists, critical habitats, and conservations priorities were also   compiled to more effectively facilitate conservation planning and habitat   restoration. </p>
-<p>Search BMPs by <a href="BMPIndex.html">conservation objective or by land use</a> for the state.	Or	search BMPs by <a href="WatershedsIndex.html">ecological drainage unit</a> on the map below.</p>
+<p>Search BMPs by <a href="/BMPStaging/BMPIndex.html">conservation objective or by land use</a> for the state.	Or	search BMPs by <a href="WatershedsIndex.html">ecological drainage unit</a> on the map below.</p>
 </div>
 			<div class="meta"></div>
 		</div>
@@ -113,7 +113,7 @@ Released   : 20081230
 					<ul>
 						<li><a href="https://tpwd.texas.gov/">Texas Parks and Wildlife Department</a></li>
 						<li><a href="https://southeastaquatics.net/">Southeast Aquatic Resources Partnership</a></li>
-						<li><a href="http://www.nature.org/wherewework/northamerica/states/texas/">The Nature Conservancy</a></li>
+						<li><a href="https://www.nature.org/en-us/about-us/where-we-work/united-states/texas/">The Nature Conservancy</a></li>
 					</ul>
 				</li>
 			  <li>
