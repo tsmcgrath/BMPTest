@@ -18,5 +18,9 @@ for dirpath, dirnames, files in os.walk(topdir):
             # sbar_menu = soupbar.findall("li", {"class": "li-content text-body"})
             # sbars = soup.find_all(text=re.compile('sidebar'))
             mydivs = soup.find_all("div", class_= "post")
-            print(file_path, ',', mydivs.[0])
-
+            for div in mydivs:
+                ref = div.find('li', href=True)
+                if ref is None:
+                    print(file_path)
+                    print("==========================")
+                    print(div)
